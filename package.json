@@ -1,12 +1,25 @@
 {
   "name": "rainbow-points-checker",
   "version": "1.0.0",
-  "description": "",
+  "description": "Rainbow wallet bulk points checker for multiple addresses.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
+  "keywords": [
+    "rainbow",
+    "points",
+    "checker",
+    "wallet",
+    "ethereum",
+    "rainbow-wallet",
+    "rainbow.me",
+    "airdrop",
+    "nodejs",
+    "crypto",
+    "blockchain",
+    "arbitrum"
+  ],
   "author": "",
   "license": "ISC",
   "dependencies": {
